@@ -11,7 +11,6 @@ You’ll start the course by learning about the powerful abstractions of Kuberne
 By the end of the course, you’ll plenty of hands-on experience with Kubernetes on AWS. You’ll also have picked up some tips on deploying and managing applications, keeping your cluster and applications secure, and ensuring that your whole system is reliable and resilient to failure.
 
 
-
 ## What you will learn
 * Provision a production-ready Kubernetes cluster on AWS
 * Deploy your own applications to Kubernetes with Helm
@@ -19,7 +18,6 @@ By the end of the course, you’ll plenty of hands-on experience with Kubernetes
 * Explore the best ways to monitor your cluster and the applications running on it
 * Supercharge your cluster by integrating it with the tools provided by the AWS platform
 * Architect your cluster for high availability
-
 
 
 ### Hardware requirements
